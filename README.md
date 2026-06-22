@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Zive
-- 👀 I’m interested in Games, Computer Science, Phototshop, All kinds of mathematics, DND, bass guitar, and sleeping
-- 🌱 I’m currently learning How to get into university lol
+- 👀 I’m interested in Games, Open Source Tech, AI, Cybersecutity, Philosophy and Personal Growth and Computing Based Activism.
+- 🌱 I’m currently learning how to successfully integrate AI programming into my workflow without getting sucked into the vaccume of vibecoding.
 - 📫 How to reach me --> zivejoshua7@gmail.com
 
 <!---
